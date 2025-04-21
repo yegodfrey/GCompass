@@ -1,0 +1,8 @@
+## Interface: 110105
+## Title: GCompass
+## Notes: Draws a customizable line extending from the player arrow on the minimap and world map, indicating facing direction. Use /gcompass to open the configuration panel.
+## Author: Godfrey
+## Version: 202504211134
+## SavedVariablesPerCharacter: GCompassDB
+
+GCompass.lua
